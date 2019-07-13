@@ -1,0 +1,206 @@
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 992px) {
+    .navbar {
+        position: relative;
+    }
+
+    .navbar-collapse {
+        position: absolute;
+        top: 52px;
+        width: 100%;
+        background-color: #21252999;
+    }
+
+    .text {
+        font-size: 2.0rem;
+    }
+
+    .posit {
+        float: left;
+        padding: 19px;
+        line-height: 17px;
+    }
+
+    .text8-bg {
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .text9 {
+        margin-top: 20px;
+    }
+
+    .rect-txt {
+        margin-top: 0px;
+        font-size: 25px;
+        line-height: 34px;
+    }
+
+    .rect-right-txt {
+        font-size: 11px;
+        line-height: 16px;
+    }
+
+    .text10 {
+        width: 92%;
+    }
+
+    .btn {
+        margin-left: 173px;
+    }
+
+    .rect-right-txt2 {
+        line-height: 18px;
+        font-size: 9px;
+    }
+
+    .bg-image {
+        height: 490px;
+    }
+
+    .about {
+        line-height: 24px;
+        font-size: 14px;
+    }
+
+    .footer .row-80 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 778px) {
+
+    .row-70 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 576px) {
+    .bg-image {
+        height: 260px;
+        margin-top: -56px;
+    }
+    .top{
+        height: 10px;
+    }
+    .mg-logo{
+        width: 45%;
+    }
+    .nav-item{
+        height: 22px;
+    }
+    .navbar-collapse{
+        width: 90%;
+    }
+    .posit{
+        font-size: 12px;
+    }
+    .text{
+        font-size: 1.2rem;
+    }
+    .big-txt{
+        font-size: 26px;
+        line-height: 40px;
+    }
+    .md-text{
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .md-text-1{
+        font-size: 14px;
+    }
+    .big-top{
+        margin-top: 20px!important;
+    }
+    .sao{
+        margin-bottom: 15px;
+    }
+    .recog{
+        margin-bottom: 0px!important;
+    }
+    .bigger-text, .bigger-text-1{
+        text-align: center;
+    }
+    .text5{
+        font-size: 35px;
+    }
+    .text6{
+        font-size: 15px;
+    }
+    .text7{
+        font-size: 13px;
+        text-align: center;
+    }
+    .number{
+        font-size: 50px;
+    }
+    .rect-right-txt2{
+        line-height: 22px;
+        text-align: center;
+        font-size: 11px;
+    }
+    .rect-right-txt {
+        font-size: 14px;
+        text-align: center;
+        line-height: 20px;
+    }
+    .rect-txt {
+        margin-top: 0px;
+        font-size: 21px;
+        line-height: 24px;
+    }
+    .noute{
+        background-color: #f6f8fa!important;
+    }
+    .resize{
+        background-size: contain;
+        background-repeat: no-repeat;
+        top: -229px;
+        background-position-y: top;
+        padding: 20px 0px;
+    }
+    .back1{
+        padding-top: 160px;
+    }
+    .back{
+        padding-bottom: 235px;
+    }
+    .btn{
+        margin-left: 65px;
+        margin-bottom: -15px;
+    }
+    .stars{
+        margin-left: 119px;
+        width: 45%;
+        height: 15px;
+    }
+    .text9{
+        font-size: 14px;
+        text-align: center;
+    }
+    .question{
+        font-size: 30px;
+    }
+    .sect{
+        line-height: 20px;
+        font-size: 12px;
+    }
+    .big-top{
+        margin-top: 0px!important;
+    }
+    .text11-bg{
+        line-height: 38px;
+    }
+    .foot{
+        margin-bottom: 0px!important;
+    }
+    .about{
+        margin-top: 40px;
+    }
+    .txt-stars{
+        margin-left: 107px;
+    }
+}

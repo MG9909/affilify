@@ -1,0 +1,531 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url('../fonts/opensans.ttf');
+}
+
+@font-face {
+    font-family: "Open Sans Light";
+    src: url('../fonts/opensanslight.ttf');
+}
+
+@font-face {
+    font-family: "Open Sans Semibold";
+    src: url('../fonts/opensanssemibold.ttf');
+}
+
+@font-face {
+    font-family: "Open Sans Bold Italic";
+    src: url('../fonts/opensansbolditalic.ttf');
+}
+@font-face {
+    font-family: "Gotham Pro";
+    src: url('../fonts/ofont.ru_Gotham Pro.ttf');
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url('../fonts/montserrat.ttf');
+}
+.top {
+    background-color: #00b2b5;
+    width: 100%;
+    height: 45px;
+    display: block;
+    padding: 11px;
+    text-align: right;
+    font-weight: normal;
+    font-size: 12px;
+}
+.nav-item{
+    height:40px;
+}
+.topbar-text {
+    font-size: 10px;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-weight: 400;}
+
+.posit{
+    float: right;
+    line-height: 17px;
+}
+.col-txt {
+    color: #ffffff !important;
+}
+.nav-item{
+    border-bottom: 3px;
+    margin-left: 15px;
+}
+.nav-item:hover{
+    border-bottom: #00b2b5 solid 3px;
+}
+.bg-image{
+    margin-top: -83px;
+    background-image: url("../images/Marketing.png");
+    width: 100%;
+    height: 650px;
+    background-size: cover;
+}
+.sao{
+    text-align: center;
+    width: 100%;
+
+}
+.logotyepe-img{
+    width: 100%;
+    text-align: center;
+}
+.bg-black{
+    margin-top: 0px;
+	background-color: #231f20;
+	width: 100%;
+}
+.text{
+    width: 100%;
+	color: black;
+	text-align: center;
+	font-weight: 600;
+	margin-top: 48px;
+	font-size: 2.2rem;
+}
+.text2{
+	margin-top: 10px;
+	margin-bottom: 40px;
+	text-align: center;
+	font-size: 21px;
+    line-height: 30px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: 700;
+}
+.text3{
+	font-size: 18px;
+	letter-spacing: 0px;
+	line-height: 40px;
+	color: #00b2b5;
+	font-family: "Gotham Pro";
+	font-weight: bold;
+}
+.img-cont{
+	text-align: center;
+	vertical-align: middle;
+	height: 85px;
+}
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.hov{
+    border-top: #231f20 solid 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 45px;
+}
+.text4{
+	font-size: 14px;
+	line-height: 21px;
+	color: #ffffff;
+	font-family: "Open Sans";
+	font-weight: 500;
+}
+.hov:hover{
+
+    display: block;
+    border-top: #1a819d solid 5px;
+    box-shadow: 1px 8px 19px 5px #131212e3;
+    background-color: #1d2124;
+}
+.hov:hover .text3 p{
+    color: #fff!important;}
+.hov:hover .text4 p{
+    color: #fff!important;
+    font-size: 14px;
+    line-height: 21px;
+    font-family: "Open Sans";
+    font-weight: 500;}
+
+.bg{
+	width: 100%;
+}
+.big-txt{
+    margin-top: 50px;
+	font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 56px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: bold;
+    text-align: center;
+}
+.md-text{
+    font-size: 18px;
+    line-height: 30px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: 500;
+    text-align: center;
+}
+
+.md-text-1{    
+	margin-top: 28px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: 500;
+    text-align: center;
+}
+.bigger{
+	background-repeat: no-repeat;
+	width: 100%;
+	margin-top:45px;
+	margin-left: 124px;
+}
+.bigger-text{
+	font-size: 24px;
+    letter-spacing: 0px;
+    line-height: 14px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: 600;
+}
+.bigger-text-1{
+	margin-top: 20px;
+    font-size: 14px;
+    line-height: 25px;
+    color: #231f20;
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+.space
+{
+	margin-top: 45px;
+}
+.row-70{
+	width: 70%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.back{
+	background-color: #f6f8fa;
+    padding-bottom: 230px;
+}
+.text5{
+	font-size: 42px;
+    letter-spacing: -1px;
+    width: 100%;
+    margin-top: 56px;
+    line-height: 57px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: bold;
+    text-align: center;
+}
+.text6{
+	width: 100%;
+    font-size: 18px;
+    line-height: 30px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: 500;
+    text-align: center;
+}
+.text7{
+    width: 100%;
+	font-size: 16px;
+    line-height: 30px;
+    color: #231f20;
+    font-family: "Open Sans";
+    font-weight: 400;
+    text-align: justify;
+}
+.text8-bg{
+	font-size: 24px;
+    letter-spacing: 0px;
+    line-height: 35px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: bold;
+}
+.text8{
+	font-size: 13px;
+    line-height: 20px;
+    color: #231f20;
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+.number{
+	font-size: 60px;
+    letter-spacing: -1px;
+    line-height: 56px;
+    color: #00b2b5;
+    font-family: "Gotham Pro";
+}
+.text9{
+	font-size: 16px;
+    line-height: 30px;
+    color: #231f20;
+    font-family: "Open Sans";
+    font-weight: 400;
+    text-align: justify;
+}
+.back1
+{   position: relative;
+    padding-top: 200px;
+	background-color: #11b7ba;
+}
+.back2{
+    position: relative;
+    background-color: #11b7ba;
+}
+.resize{
+    background-image: url('../images/Rectangle 772.png');
+    background-size: cover;
+    min-height: 400px;
+    background-position-y: bottom;
+    padding: 93px 62px;
+    position: absolute;
+    top: -38%;
+    left: 15%;
+    width: 70%;
+}
+.rect-txt{
+    width: 83%;
+    float: right;
+    text-align: left;
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 48px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: bold;
+}
+.rect-right-txt{
+    width: 100%;
+    float: left;
+    font-size: 13px;
+    line-height: 30px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: 700;
+}
+.rect-right-txt2{
+    width: 100%;
+    float: left;
+    font-size: 12px;
+    line-height: 30px;
+    color: #231f20;
+    font-family: "Open Sans";
+    font-weight: 500;
+}
+.text10-bg{
+	width: 100%;
+	font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 56px;
+    color: #ffffff;
+    font-family: "Gotham Pro";
+    font-weight: bold;
+    text-align: center;
+
+}
+.text10{
+	width: 75%;
+	font-size: 18px;
+    line-height: 30px;
+    color: #ffffff;
+    font-family: "Gotham Pro";
+    font-weight: 500;
+    text-align: center;
+}
+.btn{
+	background-color: #90d6e2;
+    border-radius: 30px;
+    width: 213px;
+    height: 50px;
+    margin-left: 250px;
+    margin-bottom: 60px;
+}
+.stars{
+	margin-left: 40px;
+	width: 60%;
+	height: 12px;
+}
+.txt-stars{
+
+	font-size: 13px;
+    line-height: 18px;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-weight: 400;
+    margin-left: 35px;
+}
+.question{
+    width: 100%;
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 56px;
+    color: #231f20;
+    font-family: "Gotham Pro";
+    font-weight: bold;
+    text-align: center;
+}
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+.accordion.active{
+    background-color: #000000;
+    color: #ffffff;
+}
+.accordion:hover {
+  background-color: #00b2b5;
+  color: #ffffff;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.accordion.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+.section{
+	font-size: 15px;
+    line-height: 26px;
+    color: #231f20;
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+.sect{
+	font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 28px;
+    color: #000;
+    font-family: "Gotham Pro";
+    font-weight: 500;
+}
+.text11-bg
+{   width: 100%;
+    margin-top: 70px;
+    font-size: 30px;
+    letter-spacing: -1px;
+    line-height: 56px;
+    color: #ffffff;
+    font-family: "Gotham Pro";
+    font-weight: bold;
+
+}
+.text11{
+    width: 100%;
+    font-size: 12px;
+    line-height: 25px;
+    color: #ffffff;
+    font-family: "Gotham Pro";
+    font-weight: 500;
+    text-align: inherit;
+    margin-bottom: 70px;
+}
+.row-80{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about{
+    margin-top: 70px;
+    font-size: 18px;
+    line-height: 48px;
+    color: #ffffff;
+    font-family: "Gotham Pro";
+    font-weight: 600;
+}
+.ab-txt{
+    width: 100%;
+    text-align: left;
+    font-size: 13px;
+    line-height: 22px;
+    color: #a2a1a1;
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+.btn1{
+    width: 100%;
+    background-color: #231f20;
+    display: block;
+    border: #0b363e solid 3px;
+    font-size: 12px;
+    line-height: 38px;
+    color: #ffffff;
+    font-family: "Gotham Pro";
+    font-weight: bold;
+    text-align: center;
+}
+.fa-angle-right{
+    color: #0c5460;
+
+}
+
+.map3{
+    width: 100%;
+    margin-bottom: 25px;
+    font-size: 9px;
+}
+.afilif{
+    font-family: "Gotham Pro";
+    font-weight: 500;
+    line-height: 18px;
+    font-size: 12px;
+    width: 100%;
+    color: #ffffff;
+}
+.adress{
+    font-family: "Gotham Pro";
+    font-weight: 300;
+    font-size: 12px;
+    width: 100%;
+    line-height: 17px;
+    color: #a2a1a1;
+}
+.course{
+    font-size: 13px;
+    line-height: 17px;
+    color: #ffffff;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+.fa-ik{
+    height: 27px;
+}
+.basic{
+    width: 100%;
+    font-size: 13px;
+    color: #ffffff;
+    font-family: "Gotham Pro";
+    font-weight: 500;
+}
+.basic1{
+    font-size: 12px;
+    color: #aaaaaa;
+    font-family: "Roboto";
+    font-weight: 400;
+}
